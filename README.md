@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pinku rathour" target="blank"><img src="https://img.shields.io/twitter/follow/pinku rathour?logo=twitter&style=for-the-badge" alt="pinku rathour" /></a> </p>
 
-- 🔭 I’m currently working on [Ekin Living Enterprises](www.tavya.in)
+- 🔭 I’m currently working on [Gully2global innovative services](https://gully2global.com/)
 
 - 🌱 I’m currently learning **JavaScript,React js, Node js**
 
