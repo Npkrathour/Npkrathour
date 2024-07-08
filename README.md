@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **pinkurathour2016@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dfHAMB4GKykG27z3-MXYl6Hv-vbhIS_j/view?usp=share_link](https://drive.google.com/file/d/1dfHAMB4GKykG27z3-MXYl6Hv-vbhIS_j/view?usp=share_link)
+- 📄 Know about my experiences [npkrathour.github.io/pinkurathour]
 
 - ⚡ Fun fact **Tea Lover🍵☕**
 
