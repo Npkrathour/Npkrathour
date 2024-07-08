@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/pinku rathour" target="blank"><img src="https://img.shields.io/twitter/follow/pinku rathour?logo=twitter&style=for-the-badge" alt="pinku rathour" /></a> </p>
 
-- 🔭 I’m currently working on [Gully2global innovative services](https://gully2global.com/)
+- 🔭 I’m currently working on [Eglobalsoft Solutions](https://eglobalsoftsolutions.com/)
 
 - 🌱 I’m currently learning **JavaScript,React js, Node js**
 
-- 👯 I’m looking to collaborate on [Learning management web](https://npkrathour.github.io/albatross/lms/)
+- 👯 I’m looking to collaborate on [Construction Website](https://rightstartconstruction.com/)
 
-- 🤝 My Portfolio link [Persional Portfolio](https://npkrathour.github.io/pinkurathour/Portfolio/)
+- 🤝 My Portfolio link [Persional Portfolio](https://npkrathour.github.io/pinkurathour/)
 
-- 👨‍💻 All of my projects are available at [https://npkrathour.github.io/pinkurathour/Portfolio/](https://npkrathour.github.io/pinkurathour/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://npkrathour.github.io/pinkurathour/Portfolio/](https://npkrathour.github.io/pinkurathour/)
 
 - 💬 Ask me about **React,JavaScript,Bootstrap**
 
