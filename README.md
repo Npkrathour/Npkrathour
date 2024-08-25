@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pinku rathour" target="blank"><img src="https://img.shields.io/twitter/follow/pinku rathour?logo=twitter&style=for-the-badge" alt="pinku rathour" /></a> </p>
 
-- 🔭 I’m currently working on [Eglobalsoft Solutions](https://eglobalsoftsolutions.com/)
+- 🔭 I’m currently working on [Pulp Strategy](https://pulpstrategy.com/)
 
 - 🌱 I’m currently learning **JavaScript,React js, Node js**
 
