@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **JavaScript,React js, Node js**
 
-- 👯 I’m looking to collaborate on [Construction Website](https://rightstartconstruction.com/)
+- 👯 I’m looking to collaborate on Zoya E-Commerce Website
 
 - 🤝 My Portfolio link [Persional Portfolio](https://npkrathour.github.io/pinkurathour/)
 
-- 👨‍💻 All of my projects are available at [https://npkrathour.github.io/pinkurathour/Portfolio/](https://npkrathour.github.io/pinkurathour/)
+- 👨‍💻 All of my projects are available at (https://npkrathour.github.io/pinkurathour/)
 
 - 💬 Ask me about **React,JavaScript,Bootstrap**
 
