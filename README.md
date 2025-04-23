@@ -1,4 +1,4 @@
-![logo](https://github.com/Npkrathour/Npkrathour/blob/main/pinku.png)
+![logo](https://github.com/Npkrathour/Npkrathour/blob/main/pinku.jpg)
 
 <h1 align="center">Hi 👋, I'm Pinku Rathour</h1>
 <h3 align="center">A passionate Frontend React Developer from India</h3>
