@@ -15,7 +15,7 @@
 - 💼 Portfolio: [Personal Portfolio](https://npkrathour.github.io/pinkurathour/)
 - 👨‍💻 All my projects are available [here](https://npkrathour.github.io/pinkurathour/)
 - 💬 Ask me about **React, JavaScript, Next.js**
-- 📫 Reach me at **pinkurathour2016@gmail.com**
+- 📫 Reach me at **pinkurathour.dev@gmail.com**
 - 📄 Know more about me at [My Resume](https://npkrathour.github.io/pinkurathour/)
 - ⚡ Fun fact: *"Turning coffee into code and pixels into perfection — all while rocking this developer face 😎💻✨"*
 
