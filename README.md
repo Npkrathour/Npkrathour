@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=npkrathour&label=Profile%20views&color=0e75b6&style=flat" alt="npkrathour" />
 </p>
 
-- 🔭 Currently working at [Radiant Infonet Pvt Ltd](https://radiantinfonet.com/)
+- 🔭 Currently working at [Rapidshyp Pvt Ltd] [https://www.rapidshyp.com]
 - 🌱 Learning **JavaScript, React.js, Next.js**
 - 👯 Looking to collaborate on **Testa Web Application**
 - 💼 Portfolio: [Personal Portfolio](https://npkrathour.github.io/pinkurathour/)
